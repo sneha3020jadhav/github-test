@@ -20,11 +20,11 @@ data = {
 }
 
 
-# Convert the dictionary into a pandas DataFrame
+# Convert the dictionary into a pandas DataFra and Prathmesh Bawalekarme
 df = pd.DataFrame(data)
 
 
-st.title("Dataset by Sneha Jadhav")
+st.title("Dataset by Sneha Jadhav and Prathmesh Bawalekar")
 df
 
 
