@@ -24,7 +24,7 @@ data = {
 df = pd.DataFrame(data)
 
 
-st.title("Dataset")
+st.title("Dataset by Sneha Jadhav")
 df
 
 
